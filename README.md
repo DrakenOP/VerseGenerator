@@ -21,7 +21,10 @@
 
 **Hey! I'm NotDrakezz... I'm just a newbie coder who's learning python and likes to code discord.py... If you wanna use my projects then you can checkout my [Github](https://github.com/NotDrakezz) or [Replit](https://replit.com/@NotDrakezz) profile.**
 
-[Youtube]()
+[Youtube](https://youtube.com/channel/UCB5PQn1aDqS-l1NKL_uT_QA)
+
 [Github](https://github.com/NotDrakezz)
+
 [Repl.it](https://replit.com/@NotDrakezz)
+
 NotDraken#7902 on Discord
