@@ -1,7 +1,7 @@
 # VerseGenerator
 A discord nitro generator written in python
 
-##Usage
+## Usage
 ・Fork the repo
 ・Clone it to replit
 ・Install the required packages and run it
